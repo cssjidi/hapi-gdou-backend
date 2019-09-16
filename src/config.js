@@ -1,0 +1,11 @@
+module.exports = {
+	DATABASE:'we7',
+	DATABASE_USERNAME:'root',
+	DATABASE_PASSWORD:'root',
+	DATABASE_HOST:'localhost',
+	DATABASE_TYPE:'mysql',
+	PROT:'3500',
+	HOSTNAME:'localhost',
+	SECRETCODE:'ADFAFLL2K323LL',
+	AUTHCODE:'75214c67'
+}
