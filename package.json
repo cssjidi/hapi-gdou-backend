@@ -1,0 +1,25 @@
+{
+  "name": "gdou",
+  "version": "1.0.0",
+  "description": "gdou examiniation",
+  "main": "index.js",
+  "scripts": {
+    "start": "supervisor index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^17.8.5",
+    "hapi-auto-route": "^3.0.2",
+    "hapi-jsonwebtoken": "^1.1.0",
+    "hapi-sequelizejs": "^2.0.0",
+    "mysql2": "^1.7.0",
+    "sequelize": "^5.18.4"
+  },
+  "devDependencies": {
+    "@hapi/hapi": "^18.3.2",
+    "hapi-auth-jwt2": "^8.6.2",
+    "hapi-mysql2": "^2.4.2"
+  }
+}
